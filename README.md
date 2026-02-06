@@ -9,7 +9,7 @@ El análisis abarca dimensiones financieras, logísticas, de satisfacción del c
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 | Tecnología | Uso Principal |
 | --- | --- |
