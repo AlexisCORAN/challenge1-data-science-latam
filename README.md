@@ -50,6 +50,7 @@ El flujo de trabajo se dividió en cinco fases críticas:
 ## Conclusión Técnica
 
 Tras la evaluación multivariable, se recomienda la **venta de la Tienda 4**. La decisión se fundamenta en su baja capacidad de conversión en zonas de alta densidad de mercado y su impacto negativo en la reputación de la marca debido a bajas calificaciones de servicio.
+
 **El informe final completo se encuentra dentro del archivo AluraStoreLatam.ipynb**
 
 ---
